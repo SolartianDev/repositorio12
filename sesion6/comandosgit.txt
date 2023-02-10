@@ -1,0 +1,9 @@
+comandos git
+
+1 estar posicionado n la carpeta principal
+2 por unica vez hacemos el git init (esto inicia el repositorio) 
+3 git status (para conocer el status general de los archivos)
+4 agregamos los archivos modificados al stage: git add
+5 preguntamos el estado de los archivos: git status
+6 hacemos un commit: git commit -m "el mensaje que quiero"
+7) Subir cambios al repositorio: git push origin main
