@@ -1,0 +1,27 @@
+body {
+  background-image: url(../imagenes/wilson.PNG);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main-nav {
+  margin-top: 10px;
+  list-style: none;
+  padding-left: 0;
+  background-color: #13a4a4;
+  font-family: Roboto;
+}
+
+.main-nav__item {
+  display: inline-block;
+}
+.main-nav__item a {
+  color: aliceblue;
+  padding: 10px;
+  border-radius: 2px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.main-nav__item a:hover {
+  color: blueviolet;
+}

@@ -1,0 +1,35 @@
+/*
+
+selector{
+    propiedad valor;
+    propiedad valor;
+    propiedad valor;
+    }
+    selector puede ser:
+    - etiqueta(nombre)
+*/
+    p{
+        color: brown;
+    }
+    button{ background-color: orange; }
+    /* clase class
+    ID- Identificacion */
+    h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .titulo{ color:green
+
+     }
+     .cursiva{font-style: italic;}
+
+     #btn{
+        padding: 20px; background-color: blue;
+     }
+     .contenedor{
+        border: 0.1em dotted #000; 
+        margin-top: 30px; margin-bottom: 20px;
+        
+     }
+     .espaciado{
+        padding: 15px;
+     }

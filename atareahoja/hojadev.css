@@ -1,0 +1,39 @@
+* {
+  margin: 20px 20px 20px 20px;
+}
+body {
+  background-color: wheat;
+}
+
+.tituloprincipal {
+  text-align: center;
+}
+
+.img {
+  background-color: rosybrown;
+  justify-content: center;
+  display: flex;
+}
+.mini{
+  background-color: rosybrown ;
+  text-align: center;
+}
+.itom{
+  background-color: navajowhite;
+  border: 1px solid black;
+  color: indigo;
+  text-align: center;
+  font-size: 30px;
+  padding: 30px;
+ }
+
+
+.formacion {
+  text-decoration: none;
+}
+.item {
+  text-decoration: none;
+  background-color: navajowhite;
+  border: 1px solid black;
+  color: darkcyan;
+}
